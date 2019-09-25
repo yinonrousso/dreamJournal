@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>45F5BE24-6260-480C-8BEC-9E5D59B4D322</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>190A74E4-C7A4-436D-B437-E6E7717BE025</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-DreamJournal-2019.09.19_17-11-43--0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>590631103.11605704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>45F5BE24-6260-480C-8BEC-9E5D59B4D322</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
