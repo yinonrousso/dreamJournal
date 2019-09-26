@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>22E1077F-AD81-42F1-984C-5669599EA859</key>
+		<key>0A820FE4-D212-4D56-86AB-37233FD4E029</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,24 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>22E1077F-AD81-42F1-984C-5669599EA859.xcactivitylog</string>
+			<string>0A820FE4-D212-4D56-86AB-37233FD4E029.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
 			<string>DreamJournal-agyzotlbzgzfmuadgeeydjdnplrl</string>
 			<key>timeStartedRecording</key>
-			<real>591142466.05704403</real>
+			<real>591151151.37263298</real>
 			<key>timeStoppedRecording</key>
-			<real>591142466.83947003</real>
+			<real>591151153.28203297</real>
 			<key>title</key>
 			<string>Build target DreamJournal</string>
 			<key>uniqueIdentifier</key>
-			<string>22E1077F-AD81-42F1-984C-5669599EA859</string>
+			<string>0A820FE4-D212-4D56-86AB-37233FD4E029</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

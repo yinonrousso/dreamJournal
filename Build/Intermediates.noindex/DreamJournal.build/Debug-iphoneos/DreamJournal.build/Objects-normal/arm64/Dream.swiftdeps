@@ -3,102 +3,343 @@ provides-top-level:
 - "Dream"
 provides-nominal:
 - "12DreamJournal0A0C"
+- "12DreamJournal0A0C11PropertyKeyV"
 provides-member:
 - ["12DreamJournal0A0C", ""]
+- ["12DreamJournal0A0C11PropertyKeyV", ""]
 provides-dynamic-lookup:
+- "encode"
 depends-top-level:
 - "AssignmentPrecedence"
+- "CastingPrecedence"
 - "Dream"
+- "FileManager"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSCoder"
+- "NSCoding"
+- "NSObject"
+- !private "OSLog"
 - "String"
+- "StringLiteralType"
+- !private "os_log"
 depends-member:
+- ["Sa", "first"]
+- ["SK", "first"]
 - !private ["SK", "isEmpty"]
+- ["s7CVarArgP", "DocumentsDirectory"]
+- ["s7CVarArgP", "FileManager"]
+- !private ["s7CVarArgP", "OSLog"]
+- !private ["s7CVarArgP", "PropertyKey"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "decodeObject"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "dreamText"]
+- ["s7CVarArgP", "encode"]
+- ["s7CVarArgP", "encodeWithCoder"]
+- ["s7CVarArgP", "first"]
+- ["s7CVarArgP", "init"]
 - !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "os_log"]
+- !private ["s7CVarArgP", "subject"]
+- ["s7CVarArgP", "urls"]
+- ["Sl", "first"]
 - !private ["Sl", "isEmpty"]
 - !private ["SL", "isEmpty"]
+- ["10Foundation15ContiguousBytesP", "first"]
+- ["s28CustomDebugStringConvertibleP", "DocumentsDirectory"]
+- ["s28CustomDebugStringConvertibleP", "FileManager"]
+- !private ["s28CustomDebugStringConvertibleP", "OSLog"]
+- !private ["s28CustomDebugStringConvertibleP", "PropertyKey"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "decodeObject"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "dreamText"]
+- ["s28CustomDebugStringConvertibleP", "encode"]
+- ["s28CustomDebugStringConvertibleP", "encodeWithCoder"]
+- ["s28CustomDebugStringConvertibleP", "first"]
+- ["s28CustomDebugStringConvertibleP", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "os_log"]
+- !private ["s28CustomDebugStringConvertibleP", "subject"]
+- ["s28CustomDebugStringConvertibleP", "urls"]
+- ["s17CustomReflectableP", "first"]
 - !private ["s17CustomReflectableP", "isEmpty"]
+- ["s23CustomStringConvertibleP", "DocumentsDirectory"]
+- ["s23CustomStringConvertibleP", "FileManager"]
+- !private ["s23CustomStringConvertibleP", "OSLog"]
+- !private ["s23CustomStringConvertibleP", "PropertyKey"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "decodeObject"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "dreamText"]
+- ["s23CustomStringConvertibleP", "encode"]
+- ["s23CustomStringConvertibleP", "encodeWithCoder"]
+- ["s23CustomStringConvertibleP", "first"]
+- ["s23CustomStringConvertibleP", "init"]
 - !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "os_log"]
+- !private ["s23CustomStringConvertibleP", "subject"]
+- ["s23CustomStringConvertibleP", "urls"]
+- ["10Foundation12DataProtocolP", "first"]
+- ["Se", "appendingPathComponent"]
+- ["Se", "first"]
 - !private ["Se", "isEmpty"]
+- ["12DreamJournal0A0C", "ArchiveURL"]
+- ["12DreamJournal0A0C", "DocumentsDirectory"]
+- ["12DreamJournal0A0C", "FileManager"]
+- ["12DreamJournal0A0C", "NSCoder"]
+- !private ["12DreamJournal0A0C", "OSLog"]
+- ["12DreamJournal0A0C", "PropertyKey"]
 - ["12DreamJournal0A0C", "String"]
+- ["12DreamJournal0A0C", "deinit"]
 - ["12DreamJournal0A0C", "dreamText"]
+- ["12DreamJournal0A0C", "encode"]
+- ["12DreamJournal0A0C", "encodeWithCoder"]
 - ["12DreamJournal0A0C", "init"]
+- !private ["12DreamJournal0A0C", "os_log"]
 - ["12DreamJournal0A0C", "subject"]
+- ["SE", "appendingPathComponent"]
+- ["SE", "first"]
 - !private ["SE", "isEmpty"]
+- ["SQ", "DocumentsDirectory"]
+- ["SQ", "FileManager"]
+- !private ["SQ", "OSLog"]
+- !private ["SQ", "PropertyKey"]
+- ["SQ", ""]
+- ["SQ", "appendingPathComponent"]
+- !private ["SQ", "debug"]
+- !private ["SQ", "decodeObject"]
+- !private ["SQ", "default"]
+- ["SQ", "documentDirectory"]
+- !private ["SQ", "dreamText"]
+- ["SQ", "encode"]
+- ["SQ", "encodeWithCoder"]
+- ["SQ", "first"]
+- ["SQ", "init"]
 - !private ["SQ", "isEmpty"]
+- !private ["SQ", "os_log"]
+- !private ["SQ", "subject"]
+- ["SQ", "urls"]
+- ["SQ", "userDomainMask"]
+- ["s25ExpressibleByArrayLiteralP", "first"]
+- ["s25ExpressibleByArrayLiteralP", "userDomainMask"]
 - !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
 - !private ["s32ExpressibleByStringInterpolationP", "isEmpty"]
 - !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
 - !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- ["So13NSFileManagerC", "init"]
+- ["So13NSFileManagerC", "urls"]
+- ["SH", "DocumentsDirectory"]
+- ["SH", "FileManager"]
+- !private ["SH", "OSLog"]
+- !private ["SH", "PropertyKey"]
+- ["SH", ""]
+- ["SH", "appendingPathComponent"]
+- !private ["SH", "decodeObject"]
+- !private ["SH", "default"]
+- ["SH", "documentDirectory"]
+- !private ["SH", "dreamText"]
+- ["SH", "encode"]
+- ["SH", "encodeWithCoder"]
+- ["SH", "first"]
+- ["SH", "init"]
 - !private ["SH", "isEmpty"]
+- !private ["SH", "os_log"]
+- !private ["SH", "subject"]
+- ["SH", "urls"]
 - !private ["s25LosslessStringConvertibleP", "isEmpty"]
 - !private ["s10MirrorPathP", "isEmpty"]
+- ["SM", "first"]
+- ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So7NSCoderC", "decodeObject"]
+- !private ["So7NSCoderC", "encode"]
+- ["So8NSCodingP", "DocumentsDirectory"]
+- ["So8NSCodingP", "FileManager"]
+- !private ["So8NSCodingP", "OSLog"]
+- !private ["So8NSCodingP", "PropertyKey"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "dreamText"]
+- ["So8NSCodingP", "encode"]
+- ["So8NSCodingP", "encodeWithCoder"]
+- ["So8NSCodingP", "init"]
 - !private ["So8NSCodingP", "isEmpty"]
+- !private ["So8NSCodingP", "os_log"]
+- !private ["So8NSCodingP", "subject"]
 - !private ["So9NSCopyingP", "isEmpty"]
 - !private ["So21NSItemProviderReadingP", "isEmpty"]
 - !private ["So21NSItemProviderWritingP", "isEmpty"]
 - !private ["So16NSMutableCopyingP", "isEmpty"]
+- ["So8NSObjectC", "ArchiveURL"]
+- ["So8NSObjectC", "DocumentsDirectory"]
+- ["So8NSObjectC", "FileManager"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "OSLog"]
+- !private ["So8NSObjectC", "PropertyKey"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "decodeObject"]
+- !private ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "dreamText"]
+- ["So8NSObjectC", "encode"]
+- ["So8NSObjectC", "encodeWithCoder"]
+- ["So8NSObjectC", "init"]
 - !private ["So8NSObjectC", "isEmpty"]
+- !private ["So8NSObjectC", "os_log"]
+- ["So8NSObjectC", "subject"]
+- ["So8NSObjectC", "urls"]
+- ["So8NSObjectP", "DocumentsDirectory"]
+- ["So8NSObjectP", "FileManager"]
+- !private ["So8NSObjectP", "OSLog"]
+- !private ["So8NSObjectP", "PropertyKey"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "decodeObject"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "dreamText"]
+- ["So8NSObjectP", "encode"]
+- ["So8NSObjectP", "encodeWithCoder"]
+- ["So8NSObjectP", "init"]
 - !private ["So8NSObjectP", "isEmpty"]
+- !private ["So8NSObjectP", "os_log"]
+- !private ["So8NSObjectP", "subject"]
+- ["So8NSObjectP", "urls"]
 - !private ["So14NSSecureCodingP", "isEmpty"]
 - !private ["So8NSStringC", "isEmpty"]
+- !private ["So9OS_os_logC", "default"]
+- !private ["So13os_log_type_ta", "debug"]
+- ["s9OptionSetP", "userDomainMask"]
+- ["12DreamJournal0A0C11PropertyKeyV", "dreamText"]
+- ["12DreamJournal0A0C11PropertyKeyV", "init"]
+- ["12DreamJournal0A0C11PropertyKeyV", "subject"]
+- ["Sk", "first"]
+- ["Sm", "first"]
 - !private ["Sm", "isEmpty"]
+- !private ["SY", "debug"]
+- ["SY", "documentDirectory"]
+- ["SY", "userDomainMask"]
+- ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- ["So21NSSearchPathDirectoryV", "documentDirectory"]
+- ["So22NSSearchPathDomainMaskV", "userDomainMask"]
+- ["ST", "first"]
 - !private ["ST", "isEmpty"]
+- ["s10SetAlgebraP", "userDomainMask"]
 - !private ["SS", "isEmpty"]
 - !private ["Sy", "isEmpty"]
 - !private ["s16TextOutputStreamP", "isEmpty"]
 - !private ["s20TextOutputStreamableP", "isEmpty"]
+- ["10Foundation3URLV", "appendingPathComponent"]
+- ["s14_ArrayProtocolP", "first"]
+- ["s30_CustomPlaygroundQuickLookableP", "appendingPathComponent"]
 - !private ["s30_CustomPlaygroundQuickLookableP", "isEmpty"]
+- ["s24_DestructorSafeContainerP", "first"]
 - !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
 - !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
 - !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- ["s19_HasContiguousBytesP", "first"]
 - !private ["s19_HasContiguousBytesP", "isEmpty"]
+- ["s35_HasCustomAnyHashableRepresentationP", "first"]
 - !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "DocumentsDirectory"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "FileManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "OSLog"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PropertyKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "decodeObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dreamText"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "encode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "encodeWithCoder"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "os_log"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subject"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "urls"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "DocumentsDirectory"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FileManager"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "OSLog"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PropertyKey"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "decodeObject"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dreamText"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "encode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "encodeWithCoder"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isEmpty"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "os_log"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "subject"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "urls"]
+- ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- ["s21_ObjectiveCBridgeableP", "first"]
 - !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
 depends-nominal:
-- !private "SK"
-- !private "s7CVarArgP"
-- !private "Sl"
+- "Sa"
+- "SK"
+- "s7CVarArgP"
+- "Sl"
 - !private "SL"
-- !private "s28CustomDebugStringConvertibleP"
-- !private "s17CustomReflectableP"
-- !private "s23CustomStringConvertibleP"
-- !private "Se"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
 - "12DreamJournal0A0C"
-- !private "SE"
-- !private "SQ"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
 - !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
 - !private "s32ExpressibleByStringInterpolationP"
 - !private "s26ExpressibleByStringLiteralP"
 - !private "s33ExpressibleByUnicodeScalarLiteralP"
-- !private "SH"
+- "So13NSFileManagerC"
+- "SH"
 - !private "s25LosslessStringConvertibleP"
 - !private "s10MirrorPathP"
-- !private "So8NSCodingP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "So7NSCoderC"
+- "So8NSCodingP"
 - !private "So9NSCopyingP"
 - !private "So21NSItemProviderReadingP"
 - !private "So21NSItemProviderWritingP"
 - !private "So16NSMutableCopyingP"
-- !private "So8NSObjectC"
-- !private "So8NSObjectP"
+- "So8NSObjectC"
+- "So8NSObjectP"
 - !private "So14NSSecureCodingP"
 - !private "So8NSStringC"
-- !private "Sm"
-- !private "ST"
+- !private "So9OS_os_logC"
+- !private "So13os_log_type_ta"
+- "s9OptionSetP"
+- "12DreamJournal0A0C11PropertyKeyV"
+- "Sk"
+- "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "So21NSSearchPathDirectoryV"
+- "So22NSSearchPathDomainMaskV"
+- "ST"
+- "s10SetAlgebraP"
 - !private "SS"
 - !private "Sy"
 - !private "s16TextOutputStreamP"
 - !private "s20TextOutputStreamableP"
-- !private "s30_CustomPlaygroundQuickLookableP"
+- "10Foundation3URLV"
+- "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
 - !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
 - !private "s34_ExpressibleByBuiltinStringLiteralP"
 - !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
-- !private "s19_HasContiguousBytesP"
-- !private "s35_HasCustomAnyHashableRepresentationP"
-- !private "10Foundation27_KeyValueCodingAndObservingP"
-- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
-- !private "s21_ObjectiveCBridgeableP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
@@ -1331,4 +1572,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "bd69ce7e1457b42354b4b8aaaea1b9fd"
+interface-hash: "7a61165d34f85f05e8286871820a6934"

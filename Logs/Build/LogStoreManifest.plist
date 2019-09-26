@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E493488D-5341-48E0-A882-CED0C0EEFB1F</key>
+		<key>0FBE1392-2A94-4BAD-92EA-2198EF7A2537</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E493488D-5341-48E0-A882-CED0C0EEFB1F.xcactivitylog</string>
+			<string>0FBE1392-2A94-4BAD-92EA-2198EF7A2537.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591150316.53460896</real>
+			<key>timeStoppedRecording</key>
+			<real>591150317.99899602</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>0FBE1392-2A94-4BAD-92EA-2198EF7A2537</string>
+		</dict>
+		<key>117D91F3-BA0C-48FA-BD15-3765B215F372</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>117D91F3-BA0C-48FA-BD15-3765B215F372.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591150550.29419804</real>
+			<key>timeStoppedRecording</key>
+			<real>591150550.99628794</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>117D91F3-BA0C-48FA-BD15-3765B215F372</string>
+		</dict>
+		<key>354D07E9-A07A-47A7-98EE-49A461ECA412</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>354D07E9-A07A-47A7-98EE-49A461ECA412.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +100,455 @@
 			<key>signature</key>
 			<string>Build DreamJournal</string>
 			<key>timeStartedRecording</key>
-			<real>591142466.00562406</real>
+			<real>591145820.04345405</real>
 			<key>timeStoppedRecording</key>
-			<real>591142466.84397101</real>
+			<real>591145824.21375</real>
 			<key>title</key>
 			<string>Build DreamJournal</string>
 			<key>uniqueIdentifier</key>
-			<string>E493488D-5341-48E0-A882-CED0C0EEFB1F</string>
+			<string>354D07E9-A07A-47A7-98EE-49A461ECA412</string>
+		</dict>
+		<key>47395000-FC8F-4287-B231-FF05D2950D9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47395000-FC8F-4287-B231-FF05D2950D9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591144275.99284196</real>
+			<key>timeStoppedRecording</key>
+			<real>591144280.60048699</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>47395000-FC8F-4287-B231-FF05D2950D9B</string>
+		</dict>
+		<key>597152F4-C3EE-425E-AB51-3E5CDC93506E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>597152F4-C3EE-425E-AB51-3E5CDC93506E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591151151.32307994</real>
+			<key>timeStoppedRecording</key>
+			<real>591151153.29521894</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>597152F4-C3EE-425E-AB51-3E5CDC93506E</string>
+		</dict>
+		<key>5B94DF04-C023-4006-A8DE-E9EC41A77108</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5B94DF04-C023-4006-A8DE-E9EC41A77108.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591149103.07864106</real>
+			<key>timeStoppedRecording</key>
+			<real>591149103.72789598</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>5B94DF04-C023-4006-A8DE-E9EC41A77108</string>
+		</dict>
+		<key>76525AFA-2D9B-47B9-8315-7BC43539EFEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76525AFA-2D9B-47B9-8315-7BC43539EFEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591149873.22815597</real>
+			<key>timeStoppedRecording</key>
+			<real>591149875.28162301</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>76525AFA-2D9B-47B9-8315-7BC43539EFEB</string>
+		</dict>
+		<key>8608AEBD-A3CC-4A1F-B891-FEBDD97DDD00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8608AEBD-A3CC-4A1F-B891-FEBDD97DDD00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591147655.05695999</real>
+			<key>timeStoppedRecording</key>
+			<real>591147657.03500104</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>8608AEBD-A3CC-4A1F-B891-FEBDD97DDD00</string>
+		</dict>
+		<key>882A34E0-EED3-4B14-B87A-9955A23D4498</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>882A34E0-EED3-4B14-B87A-9955A23D4498.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591145943.60094404</real>
+			<key>timeStoppedRecording</key>
+			<real>591145945.26564598</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>882A34E0-EED3-4B14-B87A-9955A23D4498</string>
+		</dict>
+		<key>9370BE24-FB8A-45BC-9216-0C518E684CBF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9370BE24-FB8A-45BC-9216-0C518E684CBF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591147394.14870095</real>
+			<key>timeStoppedRecording</key>
+			<real>591147398.648682</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>9370BE24-FB8A-45BC-9216-0C518E684CBF</string>
+		</dict>
+		<key>9B9AC6C3-838D-4334-941B-A7C2D447ED09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B9AC6C3-838D-4334-941B-A7C2D447ED09.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591151018.97170496</real>
+			<key>timeStoppedRecording</key>
+			<real>591151020.48106098</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>9B9AC6C3-838D-4334-941B-A7C2D447ED09</string>
+		</dict>
+		<key>A4EDC4D0-454C-4693-A4D9-310AD2FA0A4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A4EDC4D0-454C-4693-A4D9-310AD2FA0A4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591149181.23296297</real>
+			<key>timeStoppedRecording</key>
+			<real>591149182.23204803</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>A4EDC4D0-454C-4693-A4D9-310AD2FA0A4F</string>
+		</dict>
+		<key>ABF83A70-37EB-4555-AAD5-47AE8F8B3E81</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ABF83A70-37EB-4555-AAD5-47AE8F8B3E81.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591150732.92665005</real>
+			<key>timeStoppedRecording</key>
+			<real>591150735.05703604</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>ABF83A70-37EB-4555-AAD5-47AE8F8B3E81</string>
+		</dict>
+		<key>B4780004-A330-4E84-98E0-B0367F44B185</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4780004-A330-4E84-98E0-B0367F44B185.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591149561.80925</real>
+			<key>timeStoppedRecording</key>
+			<real>591149563.77176499</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>B4780004-A330-4E84-98E0-B0367F44B185</string>
+		</dict>
+		<key>BD8CB020-8B41-4D06-99AA-E3D0D953BCBA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD8CB020-8B41-4D06-99AA-E3D0D953BCBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591149919.36410999</real>
+			<key>timeStoppedRecording</key>
+			<real>591149919.41955197</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>BD8CB020-8B41-4D06-99AA-E3D0D953BCBA</string>
+		</dict>
+		<key>D965B68D-B4F0-4032-9C78-53CF51ADA406</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D965B68D-B4F0-4032-9C78-53CF51ADA406.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591147732.07840705</real>
+			<key>timeStoppedRecording</key>
+			<real>591147735.16864395</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>D965B68D-B4F0-4032-9C78-53CF51ADA406</string>
 		</dict>
 	</dict>
 </dict>

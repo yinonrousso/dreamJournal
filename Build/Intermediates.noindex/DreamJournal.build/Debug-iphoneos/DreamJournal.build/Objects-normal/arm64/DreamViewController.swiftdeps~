@@ -158,6 +158,7 @@ depends-member:
 - ["s23CustomStringConvertibleP", "viewForZoomingInScrollView"]
 - !private ["Se", "delegate"]
 - !private ["Se", "text"]
+- !private ["12DreamJournal0A0C", "deinit"]
 - !private ["12DreamJournal0A0C", "init"]
 - ["12DreamJournal0A14ViewControllerC", "Bool"]
 - ["12DreamJournal0A14ViewControllerC", "Dream"]
