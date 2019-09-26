@@ -142,6 +142,40 @@
 			<key>uniqueIdentifier</key>
 			<string>47395000-FC8F-4287-B231-FF05D2950D9B</string>
 		</dict>
+		<key>489B175E-2FCA-413C-8A77-B503818F4EB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>489B175E-2FCA-413C-8A77-B503818F4EB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591151348.89762402</real>
+			<key>timeStoppedRecording</key>
+			<real>591151348.99506605</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>489B175E-2FCA-413C-8A77-B503818F4EB8</string>
+		</dict>
 		<key>597152F4-C3EE-425E-AB51-3E5CDC93506E</key>
 		<dict>
 			<key>className</key>
@@ -549,6 +583,40 @@
 			<string>Build DreamJournal</string>
 			<key>uniqueIdentifier</key>
 			<string>D965B68D-B4F0-4032-9C78-53CF51ADA406</string>
+		</dict>
+		<key>EF86F091-444A-4EE2-A167-FBCFED1C75F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF86F091-444A-4EE2-A167-FBCFED1C75F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DreamJournal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DreamJournal</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DreamJournal</string>
+			<key>timeStartedRecording</key>
+			<real>591151725.78721201</real>
+			<key>timeStoppedRecording</key>
+			<real>591151728.70083201</real>
+			<key>title</key>
+			<string>Build DreamJournal</string>
+			<key>uniqueIdentifier</key>
+			<string>EF86F091-444A-4EE2-A167-FBCFED1C75F1</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,10 +1,10 @@
 version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
 options: "63e70ccf3d90dc65307a2cab869b0a58"
-build_time: [1569458219, 34517000]
+build_time: [1569458351, 379110000]
 inputs:
   "/Users/yinon/Library/Autosave Information/DreamJournal/DreamJournal/DreamEditViewController.swift": [1569448849, 288851478]
   "/Users/yinon/Library/Autosave Information/DreamJournal/DreamJournal/DreamViewController.swift": [1569079148, 138735970]
   "/Users/yinon/Library/Autosave Information/DreamJournal/DreamJournal/AppDelegate.swift": [1567713094, 306834417]
-  "/Users/yinon/Library/Autosave Information/DreamJournal/DreamJournal/DreamTableViewController.swift": [1569458218, 965896751]
+  "/Users/yinon/Library/Autosave Information/DreamJournal/DreamJournal/DreamTableViewController.swift": [1569458349, 898164207]
   "/Users/yinon/Library/Autosave Information/DreamJournal/DreamJournal/Dream.swift": [1569456756, 199138540]
   "/Users/yinon/Library/Autosave Information/DreamJournal/DreamJournal/DreamTableViewCell.swift": [1568944000, 48215722]
